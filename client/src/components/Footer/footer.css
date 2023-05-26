@@ -1,0 +1,11 @@
+.icon1{
+    border: 1px solid black;
+    gap: 10px;
+   background-color: black;
+   color: gray;
+}
+.icon1:hover{
+    background-color: #F6214B;
+    color: white;
+    border:1px solid #F6214B;
+}
